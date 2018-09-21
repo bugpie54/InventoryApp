@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_padding">16dp</dimen>
+    <dimen name="fa_button_margin">16dp</dimen>
+    <dimen name="view_left_margin"> 22dp</dimen>
+    <dimen name="editor_vertical_margin">16dp</dimen>
+    <dimen name="editor_horizontal_margin">8dp</dimen>
+</resources>
